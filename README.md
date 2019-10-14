@@ -11,7 +11,7 @@ OK  3. Utiliser la [grille](https://getbootstrap.com/docs/4.2/layout/grid/) flui
    - Menu
    - Partie principale
 
-4. Utiliser les classes de grille (col-xs-_ / col-md-_ etc.) pour afficher successivement les albums par 6 sur grand écran, 4 pour les tablettes et 2 en dessous
+OK  4. Utiliser les classes de grille (col-xs-_ / col-md-_ etc.) pour afficher successivement les albums par 6 sur grand écran, 4 pour les tablettes et 2 en dessous
 
 5. Utiliser Bootstrap pour :
 
@@ -19,9 +19,9 @@ OK  3. Utiliser la [grille](https://getbootstrap.com/docs/4.2/layout/grid/) flui
    - Aligner les liens Collection et History à droite lorsque l'espace disponible devient insuffisant
    - Mettre en place le [menu déroulant](https://getbootstrap.com/docs/4.2/components/dropdowns/) (en haut à droite)
 
-6. Remplacer toutes les tailles de police en pixel par des unités relatives (em ou rem)
+OK  6. Remplacer toutes les tailles de police en pixel par des unités relatives (em ou rem)
 
-7. Régler le viewport pour les mobiles
+OK  7. Régler le viewport pour les mobiles
 
 ```html
 <meta
