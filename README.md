@@ -2,9 +2,9 @@
 
 ![](img/exemple.gif)
 
-1. Ajouter [bootstrap](https://getbootstrap.com/docs/4.2/getting-started/download/) à votre projet
+OK  1. Ajouter [bootstrap](https://getbootstrap.com/docs/4.2/getting-started/download/) à votre projet
 
-2. Centrer les éléments sur la page grace à un container Bootstrap
+OK  2. Centrer les éléments sur la page grace à un container Bootstrap
 
 3. Utiliser la [grille](https://getbootstrap.com/docs/4.2/layout/grid/) fluide de Bootstrap pour définir la largeur des éléments :
 
