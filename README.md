@@ -15,7 +15,7 @@ OK  4. Utiliser les classes de grille (col-xs-_ / col-md-_ etc.) pour afficher s
 
 5. Utiliser Bootstrap pour :
 
-   - Masquer la colonne de gauche sur mobile et sur tablette en mode portrait ([display utilities](https://getbootstrap.com/docs/4.2/utilities/display/))
+   OK - Masquer la colonne de gauche sur mobile et sur tablette en mode portrait ([display utilities](https://getbootstrap.com/docs/4.2/utilities/display/))
    - Aligner les liens Collection et History à droite lorsque l'espace disponible devient insuffisant
    - Mettre en place le [menu déroulant](https://getbootstrap.com/docs/4.2/components/dropdowns/) (en haut à droite)
 
@@ -38,6 +38,6 @@ Cela permet d'eviter que l'utilisateur zoom dans votre page web pour naviguer
    - Masquer les icônes twitter et facebook sur mobile
    - Ajuster la taille du texte aux 3 points de ruptures suivants : 1400px (grossir) / 600px (plus petit) / 450px (encore plus petit)
 
-9. Redimensionner la fenêtre du navigateur ou émuler la taille du device à travers la console dévelopeur. Tester que la page est visuellement cohérente à toutes les résolutions. Faire les ajustements nécessaires avec les media queries
+OK  9. Redimensionner la fenêtre du navigateur ou émuler la taille du device à travers la console dévelopeur. Tester que la page est visuellement cohérente à toutes les résolutions. Faire les ajustements nécessaires avec les media queries
 
-10- la suite du tp se trouve [ici](https://github.com/clementAC/Tp5-Responsive-web-design-react)
+OK  10- la suite du tp se trouve [ici](https://github.com/clementAC/Tp5-Responsive-web-design-react)
