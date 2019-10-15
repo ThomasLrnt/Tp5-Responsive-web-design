@@ -1,6 +1,7 @@
 /* Convertisseur px to rem :
 https://outils-css.aliasdmc.fr/convertir-unites-de-longueurs-css.php */
 
+
 @font-face {
     font-family: 'My Lucida';
     src: url('../font/LucidaGrande.ttf');
@@ -47,6 +48,8 @@ header .user a {
 
 main h2 {
     margin-top: 4px;
+    margin-bottom: 4px;
+    padding-bottom: 5px;
 }
 
 
@@ -171,6 +174,11 @@ input.submit {
     background-image: url("../img/icon/station-white.png");
 }
 
+
+#albums {
+    /* Modification des marges */
+    margin-top: 15px;
+}
 
 #albums article {
     font-size: 0.813rem;
