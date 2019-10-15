@@ -17,7 +17,7 @@ OK  4. Utiliser les classes de grille (col-xs-_ / col-md-_ etc.) pour afficher s
 
    OK - Masquer la colonne de gauche sur mobile et sur tablette en mode portrait ([display utilities](https://getbootstrap.com/docs/4.2/utilities/display/))
    - Aligner les liens Collection et History à droite lorsque l'espace disponible devient insuffisant
-   - Mettre en place le [menu déroulant](https://getbootstrap.com/docs/4.2/components/dropdowns/) (en haut à droite)
+   OK  - Mettre en place le [menu déroulant](https://getbootstrap.com/docs/4.2/components/dropdowns/) (en haut à droite)
 
 OK  6. Remplacer toutes les tailles de police en pixel par des unités relatives (em ou rem)
 
